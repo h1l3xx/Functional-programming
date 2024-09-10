@@ -1,5 +1,6 @@
+
 # Functional-programming
-This is repository with labs for subject in ITMO University: Functional Programming 
+Маликов Александр, P3322
 
 # Лабораторная работа №0
 Эссе:
