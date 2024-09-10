@@ -16,3 +16,4 @@ This is repository with labs for subject in ITMO University: Functional Programm
 Статьи, из которых было принято решение о выборе данного языка: 
 1) https://habr.com/ru/articles/173071/
 2) https://grishaev.me/clojure-article/
+3) https://camsaul.com/clojure/2019/01/29/the-best-linters-for-clojure.html
